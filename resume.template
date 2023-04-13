@@ -19,10 +19,8 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
-          <div id="photo-header" class="text-center">
-            <div id="text-header">
-              <h1>{{basics.name}}<br>{{#basics.label}}<span>{{basics.label}}</span>{{/basics.label}}</h1>
-            </div>
+          <div id="text-header" class="text-center">
+            <h1>{{basics.name}}<br>{{#basics.label}}<span>{{basics.label}}</span>{{/basics.label}}</h1>
           </div>
         </div>
       </div>
