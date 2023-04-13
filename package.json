@@ -1,6 +1,6 @@
 {
-  "name": "jsonresume-theme-kendall-herink",
-  "version": "1.2.0",
+  "name": "jsonresume-theme-kendall-modern",
+  "version": "0.1.0",
   "description": "A JSON Resume theme built with bootstrap",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/daniel-herink/jsonresume-theme-kendall-herink.git"
+    "url": "https://github.com/brunoroux/jsonresume-theme-kendall-modern"
   },
   "keywords": [
     "json",
@@ -22,7 +22,7 @@
     "theme"
   ],
   "bugs": {
-    "url": "https://github.com/daniel-herink/jsonresume-theme-kendall-herink/issues"
+    "url": "https://github.com/brunoroux/jsonresume-theme-kendall-modern/issues"
   },
-  "homepage": "https://github.com/daniel-herink/jsonresume-theme-kendall-herink"
+  "homepage": "https://github.com/brunoroux/jsonresume-theme-kendall-modern"
 }
