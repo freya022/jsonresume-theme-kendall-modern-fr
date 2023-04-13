@@ -11,9 +11,6 @@
     <style type="text/css">
     {{{css}}}
     </style>
-    <style type="text/css" media="print">
-    {{{printcss}}}
-    </style>
   </head>
   <body>
     <div class="container">
