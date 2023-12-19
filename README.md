@@ -1,4 +1,6 @@
-# jsonresume-theme-kendall-herink
+# jsonresume-theme-kendall-modern-fr
+
+A fork of the `kendall` theme for JSONResume, with French localization for my needs, may not cover the entirety of the template.
 
 A theme for the [JSONResume](https://github.com/jsonresume/resume-schema) schema, that relies on Bootstrap and FontAwesome, and slightly modified from the superb, original JSONResume theme ["Kendall"](https://github.com/LinuxBozo/jsonresume-theme-kendall).
 
