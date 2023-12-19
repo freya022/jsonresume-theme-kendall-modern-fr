@@ -1,90 +1,105 @@
+@page {
+    size: A4;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 body {
     font-size: .95em;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
-  }
-  
-  .container{
+}
+
+.container {
     margin-top: 0px;
-  }
-  
-  #photo{
+}
+
+#photo {
     display: none;
-  }
-  #photo-header{
+}
+
+#photo-header {
     margin-top: 0px;
-  }
-  #text-header {
+}
+
+#text-header {
     margin-top: 10px;
-  }
-  
-  .box {
+}
+
+.box {
     margin-bottom: -10px;
-  }
-  
-  blockquote,
-  #education,
-  #awards,
-  .contact-item,
-  .publication,
-  .skills,
-  .interests {
+}
+
+blockquote,
+#education,
+#awards,
+.contact-item,
+.publication,
+.skills, #skills,
+.interests,
+.highlights {
     page-break-inside: avoid;
-  }
-  
-  .contact-item .icon{
+}
+
+#skills {
+    padding-top: 5px;
+}
+
+.contact-item .icon {
     border-right: 1px solid rgb(204, 204, 204);
     border-bottom: 1px solid rgb(204, 204, 204);
-  }
-  
-  .col-sm-5{
+}
+
+.col-sm-5 {
     width: 40%;
     padding: 0 15px;
-  }
-  
-  .col-sm-7{
+}
+
+.col-sm-7 {
     width: 60%;
     padding: 0 15px;
-  }
-  
-  .skills .col-sm-offset-1,
-  .interests .col-sm-offset-1{
+}
+
+.skills .col-sm-offset-1,
+.interests .col-sm-offset-1 {
     margin-top: -10px;
     margin-bottom: 5px;
-  }
-  
-  #education {
+}
+
+#education {
     margin: 0;
     margin-bottom: -20px;
-  }
-  
-  #text-header:after{
+}
+
+#text-header:after {
     border-bottom: 1px solid rgb(221, 221, 221);
-  }
-  
-  #awards .description,
-  #education .description,
-  .job .details {
+}
+
+#awards .description,
+#education .description,
+.job .details {
     border: 1px solid rgb(238, 238, 238);
-  }
-  .publication,
-  .publication .panel-heading,
-  .publication .name{
+}
+
+.publication,
+.publication .panel-heading,
+.publication .name {
     margin: 0;
     padding: 0 5px;
     border: none;
-  }
-  .publication .panel-body {
+}
+
+.publication .panel-body {
     padding: 0 10px;
     margin: 0;
-  }
-  
-  .badge {
+}
+
+.badge {
     margin: 0;
-  }
-  
-  .list-group-item{
+}
+
+.list-group-item {
     border: none;
     margin: 0;
     padding: 5px 15px;
-  }
+}
