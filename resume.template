@@ -103,7 +103,7 @@
           {{#volunteerBool}}
           <!-- VOLUNTEER -->
           <div class="box">
-            <h2><i class= "fas fa-users ico"></i> Volunteer</h2>
+            <h2><i class= "fas fa-users ico"></i> Bénévolat</h2>
             {{#volunteer}}
               <div class="job clearfix">
                 <div class="row">
